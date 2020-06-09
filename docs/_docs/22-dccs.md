@@ -1,3 +1,10 @@
+---
+title: "Digital Content Components"
+permalink: /docs/dccs/
+excerpt: "Digital Content Components reference guide."
+last_modified_at: 2020-06-09T10:15:37-04:00
+---
+
 # Digital Content Components
 
 ## Playground

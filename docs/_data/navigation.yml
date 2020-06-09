@@ -54,6 +54,8 @@ docs:
         url: /docs/navigation/
       - title: "UI Text"
         url: /docs/ui-text/
+      - title: "DCCs"
+        url: /docs/dccs/
       - title: "Authors"
         url: /docs/authors/
       - title: "Layouts"
