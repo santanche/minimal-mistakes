@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Teaching"
+    url: https://www.ic.unicamp.br/~santanch/teaching/index.html
+  - title: "Research"
+    url: https://www.ic.unicamp.br/~santanch/publications/index.html
+  - title: "Curriculum"
+    url: http://lattes.cnpq.br/5121623021406209
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
